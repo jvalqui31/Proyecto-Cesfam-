@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="css/style.css" />
 </head>
 <body class="form-control bg-light">
-      <!-- Navbar -->
+      <!-- Navbar wr -->
       <nav class="navbar navbar-expand-lg navbar-dark d-none d-lg-block" style="z-index: 2000;">
         <div class="container-fluid">
           <!-- Navbar brand -->
